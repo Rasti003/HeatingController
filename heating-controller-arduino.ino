@@ -10,9 +10,10 @@ int PompaPiec =2;
  int PompaSzesc =3;
 
 
-int kominekPIN =53; // pin kominka
+int kominekPIN =53; 
 int kominekStan =0;
-int piecPIN =52;
+
+int piecPIN =52; 
 int piecStan =0;
 
 
