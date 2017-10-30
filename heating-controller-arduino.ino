@@ -1,5 +1,5 @@
 
-
+//#define int CzasPracy = 1000; // czas pracy pompy
 
 
 int PompaJeden = 7;
@@ -74,6 +74,8 @@ digitalWrite(PompaDwa,LOW);
 digitalWrite(PompaTrzy,LOW);
 digitalWrite(PompaCztery,LOW);
 digitalWrite(PompaPiec,LOW);
+
+delay(300000);
 }
 else
 {
