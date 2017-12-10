@@ -6,8 +6,8 @@ int PompaJeden = 7;
 int PompaDwa =  6;
 int PompaTrzy = 5;
 int PompaCztery =4;
-int PompaPiec =2;
- int PompaSzesc =3;
+int PompaPiec =3;
+ int PompaSzesc =2;
 
 
 int kominekPIN =53; 
@@ -48,7 +48,7 @@ pinMode (piecPIN ,INPUT_PULLUP);
 
 void loop() {
 
-
+delay(1000);
   kominekStan = digitalRead(kominekPIN);    // 
 piecStan = digitalRead(piecPIN);    // 
 
