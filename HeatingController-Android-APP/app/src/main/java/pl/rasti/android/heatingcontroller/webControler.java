@@ -51,7 +51,7 @@ public class webControler extends Activity {
         setContentView(R.layout.activity_web_controler);
 
         WebView myWebView = (WebView) findViewById(R.id.webview);
-        myWebView.loadUrl("http://legalnyplener.pl/przemektest/indexold.html");
+        myWebView.loadUrl("http://192.168.88.17/");
         myWebView.setWebViewClient(new WebViewClient() {
             public boolean shouldOverrideUrlLoading(WebView viewx, String urlx) {
                 viewx.loadUrl(urlx);
