@@ -9,3 +9,5 @@ Z racji ograniczonego miejsca na serwer w esp8266 biblioteki zostały wydelegowa
   <img src="https://raw.githubusercontent.com/Rasti003/HeatingController/master/screenshot_interface.PNG" width="250"/>
 
 </p>
+
+ Interfejs można zobaczyć tutaj : http://bit.ly/HeatingController
